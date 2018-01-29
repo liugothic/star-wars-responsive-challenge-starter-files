@@ -1,0 +1,27 @@
+header {
+	background-color: goldenrod;
+}
+
+main .row {
+	margin-bottom: 20px;
+}
+
+main {
+	padding-top: 40px;
+}
+
+img{
+	width: 100%;
+}
+
+.card{
+	border: 1px solid lightgrey;
+}
+
+.word{
+	margin-left: 20px;
+}
+
+h2{
+	font-size: 16px;
+}
